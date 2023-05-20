@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there :wave:
+
+#### I'm Bautista Bourlot, aspiring Software Developer.
 
 <!--
 **BautistaBourlot/BautistaBourlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
